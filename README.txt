@@ -1,5 +1,3 @@
-TP REALISER EN BINOME PAR
-SOFIANE STAMBOUL
 HUGO ROVELLI
 
 
@@ -7,7 +5,7 @@ HUGO ROVELLI
 
 Pour la modelisation du  design1:
 
-	il devrait avoir un local assignement entre (DNO et DNOS ) et (DN et DNOS) nous ne l'avons pas ajouter etant donnée que green modofie notre code.
+	il devrait avoir un local assignement entre (DNO et DNOS ) et (DN et DNOS) nous ne l'avons pas ajouter etant donnÃ©e que green modofie notre code.
 
 Pour la modelisation du  design2:
 
